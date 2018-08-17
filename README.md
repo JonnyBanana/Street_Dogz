@@ -43,3 +43,24 @@ Or simply import it to Notepad++ by going to Menu -> Settings -> Import -> Impor
 
 ![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/java.jpg "Street Dogz a Free Template for Notepad++")
 
+<h3>Makefile/h3>
+
+![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/makefile.jpg "Street Dogz a Free Template for Notepad++")
+
+<h3>Perl</h3>
+
+![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/perl.jpg "Street Dogz a Free Template for Notepad++")
+
+<h3>Powershell</h3>
+
+![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/powershell.jpg "Street Dogz a Free Template for Notepad++")
+
+<h3>Python</h3>
+
+![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/python.jpg "Street Dogz a Free Template for Notepad++")
+
+<h3>Ruby</h3>
+
+![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/ruby.jpg "Street Dogz a Free Template for Notepad++")
+
+
