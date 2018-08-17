@@ -72,11 +72,11 @@ Or simply import it to Notepad++ by going to Menu -> Settings -> Import -> Impor
 ![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/xml.jpg "Street Dogz a Free Template for Notepad++")
 
 </BR>
-You can see the complete collection of styles in the "Screenshots" folder
+<p>You can see the complete collection of styles in the "Screenshots" folder
 </BR>
-or here: https://imgur.com/a/Fpfnzki
+or here: https://imgur.com/a/Fpfnzki</p>
 
 </BR>
 
 
-If you want to try out styles directly on notepad++ (or if you want to build your personal style) you can find several sample files written in different programming languages in the "RandomFiles" folder.
+<p>If you want to try out styles directly on notepad++ (or if you want to build your personal style) you can find several sample files written in different programming languages in the "RandomFiles" folder.</p>
