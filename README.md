@@ -78,4 +78,5 @@ or here: https://imgur.com/a/Fpfnzki
 
 </BR>
 
+
 If you want to try out styles directly on notepad++ (or if you want to build your personal style) you can find several sample files written in different programming languages in the "RandomFiles" folder.
