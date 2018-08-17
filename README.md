@@ -11,7 +11,7 @@ A Street Art Notepad++ Theme for Different Programming Languages
 <h2>Installation</h2>
 
 1. double click on gooddog.otf and the press the install button.
-2. Copy and Paste StreetDogz.xml to `%PROGRAMFILES%\Notepad++\themes` (`%PROGRAMFILES(X86)%\Notepad++\themes` on 64-bit systems).
+2. Copy and Paste StreetDogz.xml to `%PROGRAMFILES%\Notepad++\themes` </BR> (`%PROGRAMFILES(X86)%\Notepad++\themes` on 64-bit systems).
 3. Restart Notepad++.
 4. Open Settings->Style Configurator.
 5. Select "StreetDogz" from the theme drop-down box.
