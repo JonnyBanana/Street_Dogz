@@ -5,7 +5,7 @@ A Street Art Notepad++ Theme for Different Programming Languages
 
 This template uses color combinations of fonts that change depending on the programming language used.
 
-To create it, I was inspired by this work:https://github.com/SeanCline/Npp-VS2012-Dark
+To create it, I was inspired by this work: https://github.com/SeanCline/Npp-VS2012-Dark</BR>
 Although as you can see the final result is totally differnt...
 
 <h2>Programming Language and Files</h2>
