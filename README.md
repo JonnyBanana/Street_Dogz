@@ -3,8 +3,9 @@ A Street Art Notepad++ Theme for Different Programming Languages
 
 ![Alt text](https://github.com/JonnyBanana/Street_Dog/blob/master/Screenshots/objective-c.jpg "Street Dogz a Free Template for Notepad++")
 
+This template uses color combinations of fonts that change depending on the programming language used...
 
-<h2>Programming Languagee and Files</h2>
+<h2>Programming Language and Files</h2>
  
 Autoit, Batch, Bash, C#, C, C++, Cmake, Css, Fortran, Html, Ini, Inno Setup, Java, Javascript,</BR> Lua, Makefile, Nfo, Objective C, Pascal, Perl, Php, Powershell, Python, Ruby, Sql, Txt, Visual Basic, Xml
  
