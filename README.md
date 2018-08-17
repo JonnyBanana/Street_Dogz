@@ -32,8 +32,10 @@ Or simply import it to Notepad++ by going to Menu -> Settings -> Import -> Impor
 <h2>Some Example</h2>
 
 <h3>Cmake</h3>
+
 ![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/cmake.JPG "Street Dogz a Free Template for Notepad++")
 
 <h3>File .ini</h3>
+
 ![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/ini.jpg "Street Dogz a Free Template for Notepad++")
 
