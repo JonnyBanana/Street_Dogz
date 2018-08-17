@@ -63,4 +63,12 @@ Or simply import it to Notepad++ by going to Menu -> Settings -> Import -> Impor
 
 ![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/ruby.jpg "Street Dogz a Free Template for Notepad++")
 
+<h3>Sql</h3>
+
+![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/sql.jpg "Street Dogz a Free Template for Notepad++")
+
+<h3>Xml</h3>
+
+![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/xml.jpg "Street Dogz a Free Template for Notepad++")
+
 
