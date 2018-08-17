@@ -39,3 +39,7 @@ Or simply import it to Notepad++ by going to Menu -> Settings -> Import -> Impor
 
 ![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/ini.jpg "Street Dogz a Free Template for Notepad++")
 
+<h3>Java</h3>
+
+![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/java.jpg "Street Dogz a Free Template for Notepad++")
+
