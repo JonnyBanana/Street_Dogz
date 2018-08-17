@@ -77,4 +77,4 @@ You can see the complete collection of styles in the "Screenshots" folder
 or here: https://imgur.com/a/Fpfnzki
 
 
-If you want to try out styles directly on notepad, or if you want to build your personal style, you can find several sample files written in different programming languages in the "RandomFiles" folder
+If you want to try out styles directly on notepad++ (or if you want to build your personal style) you can find several sample files written in different programming languages in the "RandomFiles" folder
