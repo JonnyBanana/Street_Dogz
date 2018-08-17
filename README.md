@@ -76,7 +76,4 @@ Or simply import it to Notepad++ by going to Menu -> Settings -> Import -> Impor
 </BR>
 or here: https://imgur.com/a/Fpfnzki</p>
 
-</BR>
-
-
 <p>If you want to try out styles directly on notepad++ (or if you want to build your personal style) you can find several sample files written in different programming languages in the "RandomFiles" folder.</p>
