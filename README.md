@@ -1,2 +1,2 @@
 # StreetDog
-A Street Art Notepad++ Style for Different Programming Languages
+A Street Art Notepad++ Theme for Different Programming Languages
