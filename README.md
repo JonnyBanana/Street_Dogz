@@ -27,3 +27,15 @@ Autoit, Batch, Bash, C#, C, C++, Cmake, Css, Fortran, Html, Ini, Inno Setup, Jav
 6. Click *Save & Close*
 
 Or simply import it to Notepad++ by going to Menu -> Settings -> Import -> Import Style theme(s) option.
+
+
+<h2>Some Example</h2>
+
+
+
+![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/cmake.JPG "Street Dogz a Free Template for Notepad++")
+<h3>Cmake</h3>
+
+
+![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/ini.jpg "Street Dogz a Free Template for Notepad++")
+<h3>File .ini</h3>
