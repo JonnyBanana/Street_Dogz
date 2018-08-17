@@ -72,3 +72,6 @@ Or simply import it to Notepad++ by going to Menu -> Settings -> Import -> Impor
 ![Alt text](https://github.com/JonnyBanana/Street_Dogz/blob/master/Screenshots/xml.jpg "Street Dogz a Free Template for Notepad++")
 
 
+You can see the complete collection of styles in the "Screenshots" folder
+</BR>
+or here: https://imgur.com/a/Fpfnzki
