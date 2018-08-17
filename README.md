@@ -10,7 +10,7 @@ Although as you can see the final result is totally differnt...
 
 <h2>Programming Language and Files</h2>
  
-Autoit, Batch, Bash, C#, C, C++, Cmake, Css, Fortran, Html, Ini, Inno Setup, Java, Javascript,</BR> Lua, Makefile, Nfo, Objective C, Pascal, Perl, Php, Powershell, Python, Ruby, Sql, Txt, Visual Basic, Xml
+Autoit, Batch, Bash, C#, C, C++, Cmake, Css, Fortran, Html, Ini, Inno Setup, Java, Javascript,</BR> Lua, Makefile, Nfo, Objective C, Pascal, Perl, Php, Powershell, Python, Ruby, Sql, Visual Basic, Xml
  
  
  <h2>Requirements:</h2>
