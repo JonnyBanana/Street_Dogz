@@ -1,30 +1,19 @@
 /* TEAM */
-Your title: NicolÃ² Saporito, Sappoh Sama Workshop, WebChain Solutions
-Site:jonnybanana.github.io, www.webchain.info
-Mail: howtohackitalia@gmail.com, sappohsamaworkshop@gmail.com, jonnybanana@protonmail.com, jonnybanana@pm.me
-Youtube: http://www.youtube.com/c/HowToHackItalia,  http://www.youtube.com/c/SappohSamaWorkshop
-Twitter: https://twitter.com/jonnybanana84
-Github:  https://github.com/JonnyBanana
-Facebook: https://www.facebook.com/SapperSapoSaps
-Ebay Shop: https://www.ebay.it/str/sapposamaworkshop
-Work PhotoAlbum: https://howtohack.imgur.com/
-
-/* MY PGP */
-jonnybanana@protonmail.com 
-8c8f7dfc02d993b2418786e567040a7d27ccdff7 
-jonnybanana@pm.me 
-cc2572b2aa752fbfe48f93c7a6063b8be8964e09 
-Mailvelope
-FA6594C6C31FAAE54D9BD87EAF05B231635B9F59 
+Your title: Nicolò Saporito, Mirco Baragiani, WebChain Solutions
+Site:www.webchain.info https://webchainsolutions.github.io
+Mail: webchainsolutions@gmail.com
+Youtube: https://www.youtube.com/channel/UC748_qNYenhUU_9tEiskjlg
+Github:  https://github.com/WebChainSolutions
 Location: Bologna, Italy.
 [...]
  
-/* THANKS */
-Name: Ross, Dharma, Angelo, Frenk, Alma, Alba, Feel e tutti gli altri.
-[...]
- 
-/* TEMPLATE */
-Last update: 2018/8/17.
-Standards: XML.
-Requirements: gooddog font, Notepad++.
 
+/* SITE'S E ALGHORITMS*/
+Last update: 2018/8/25
+Standards: HTML5, CSS3, SASS, PYTHON, LESS, JAVASCRIPT, POWERSHELL, BATCH, PUG, RUBY, PHP, C, C#
+Software: Notepad++, Photoshop, illustrator, Premiere, Git, Koala, Shell/all.
+
+
+/* THANKS */
+Thanks to html, css, and all the others...
+[...]
