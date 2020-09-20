@@ -77,3 +77,13 @@ Or simply import it to Notepad++ by going to Menu -> Settings -> Import -> Impor
 or here: https://imgur.com/a/Fpfnzki</p>
 
 <p>If you want to try out styles directly on notepad++ (or if you want to build your personal style) you can find several sample files written in different programming languages in the "RandomFiles" folder.</p>
+
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
